@@ -1,0 +1,32 @@
+CRITICAL - 2023-02-21 14:10:13 --> fopen(app/Libraries/node/server.js): failed to open stream: Permission denied
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/nftbox/nftbox-backup/app/Modules/Nfts/Controllers/Admin/Nfts_setup.php(178): fopen()
+#2 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(926): App\Modules\Nfts\Controllers\Admin\Nfts_setup->networkUpdate()
+#3 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/nftbox/nftbox-backup/index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-02-21 14:29:03 --> fopen(app/Libraries/node/server.js): failed to open stream: Permission denied
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/nftbox/nftbox-backup/app/Modules/Nfts/Controllers/Admin/Nfts_setup.php(178): fopen()
+#2 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(926): App\Modules\Nfts\Controllers\Admin\Nfts_setup->networkUpdate()
+#3 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/nftbox/nftbox-backup/index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-02-21 14:29:09 --> fopen(app/Libraries/node/server.js): failed to open stream: Permission denied
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/nftbox/nftbox-backup/app/Modules/Nfts/Controllers/Admin/Nfts_setup.php(178): fopen()
+#2 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(926): App\Modules\Nfts\Controllers\Admin\Nfts_setup->networkUpdate()
+#3 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/nftbox/nftbox-backup/index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-02-21 14:43:57 --> fopen(app/Libraries/node/server.js): failed to open stream: Permission denied
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/nftbox/nftbox-backup/app/Modules/Nfts/Controllers/Admin/Nfts_setup.php(178): fopen()
+#2 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(926): App\Modules\Nfts\Controllers\Admin\Nfts_setup->networkUpdate()
+#3 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/nftbox/nftbox-backup/index.php(64): CodeIgniter\CodeIgniter->run()
+#6 {main}

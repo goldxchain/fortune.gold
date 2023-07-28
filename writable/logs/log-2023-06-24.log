@@ -1,0 +1,7 @@
+CRITICAL - 2023-06-24 07:28:31 --> Too few arguments to function CodeIgniter\HTTP\RedirectResponse::to(), 0 passed in /var/www/html/nftbox/market.metaxseed.io/app/Modules/Nfts/Controllers/Users/User_nfts.php on line 104 and at least 1 expected
+#0 /var/www/html/nftbox/market.metaxseed.io/app/Modules/Nfts/Controllers/Users/User_nfts.php(104): CodeIgniter\HTTP\RedirectResponse->to()
+#1 /var/www/html/nftbox/market.metaxseed.io/system/CodeIgniter.php(926): App\Modules\Nfts\Controllers\Users\User_nfts->add_collection()
+#2 /var/www/html/nftbox/market.metaxseed.io/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/nftbox/market.metaxseed.io/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/nftbox/market.metaxseed.io/index.php(64): CodeIgniter\CodeIgniter->run()
+#5 {main}

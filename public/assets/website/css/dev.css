@@ -1,0 +1,41 @@
+.form-control-bg {
+    background-color: #f0f0f0;
+}
+
+.like-active {
+    fill: red;
+    stroke: red;
+}
+
+.social-link li a i {
+  color: #fff;
+  font-size: 24px;
+}
+
+.align-items-center.card-body.d-flex.ji.justify-content-center.empty-tag {
+    min-height: 400px;
+}
+
+p.nft-details {
+    word-break: break-all;
+}
+
+
+.d-fav-item{
+    height: 40px;
+    width: 40px;
+    padding: 0;
+    top: 15px;
+    right: 15px;
+}
+
+
+.language-inner .form-select{
+    background-color: #07050a;
+    border-color: rgba(255,255,255,0.3);
+    color: #fff;
+    height: 38px;
+    width: auto;
+    font-size: 13px;
+     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23ffffff' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e");
+}

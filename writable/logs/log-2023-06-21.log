@@ -1,0 +1,33 @@
+CRITICAL - 2023-06-21 16:36:05 --> Your server does not support the GD function required to process this type of image. Ima
+#0 /var/www/html/nftbox/market.metaxseed.io/system/Images/Handlers/GDHandler.php(451): CodeIgniter\Images\Exceptions\ImageException::forInvalidImageCreate()
+#1 /var/www/html/nftbox/market.metaxseed.io/system/Images/Handlers/GDHandler.php(402): CodeIgniter\Images\Handlers\GDHandler->getImageResource()
+#2 /var/www/html/nftbox/market.metaxseed.io/system/Images/Handlers/GDHandler.php(299): CodeIgniter\Images\Handlers\GDHandler->ensureResource()
+#3 /var/www/html/nftbox/market.metaxseed.io/app/Libraries/UploadImage.php(14): CodeIgniter\Images\Handlers\GDHandler->save()
+#4 /var/www/html/nftbox/market.metaxseed.io/app/Modules/Setting/Controllers/Admin/Setting.php(45): App\Libraries\UploadImage->Image()
+#5 /var/www/html/nftbox/market.metaxseed.io/system/CodeIgniter.php(926): App\Modules\Setting\Controllers\Admin\Setting->index()
+#6 /var/www/html/nftbox/market.metaxseed.io/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/nftbox/market.metaxseed.io/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/nftbox/market.metaxseed.io/index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-06-21 16:37:43 --> Your server does not support the GD function required to process this type of image. Ima
+#0 /var/www/html/nftbox/market.metaxseed.io/system/Images/Handlers/GDHandler.php(451): CodeIgniter\Images\Exceptions\ImageException::forInvalidImageCreate()
+#1 /var/www/html/nftbox/market.metaxseed.io/system/Images/Handlers/GDHandler.php(402): CodeIgniter\Images\Handlers\GDHandler->getImageResource()
+#2 /var/www/html/nftbox/market.metaxseed.io/system/Images/Handlers/GDHandler.php(299): CodeIgniter\Images\Handlers\GDHandler->ensureResource()
+#3 /var/www/html/nftbox/market.metaxseed.io/app/Libraries/UploadImage.php(14): CodeIgniter\Images\Handlers\GDHandler->save()
+#4 /var/www/html/nftbox/market.metaxseed.io/app/Modules/Setting/Controllers/Admin/Setting.php(45): App\Libraries\UploadImage->Image()
+#5 /var/www/html/nftbox/market.metaxseed.io/system/CodeIgniter.php(926): App\Modules\Setting\Controllers\Admin\Setting->index()
+#6 /var/www/html/nftbox/market.metaxseed.io/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/nftbox/market.metaxseed.io/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/nftbox/market.metaxseed.io/index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-06-21 16:38:07 --> Your server does not support the GD function required to process this type of image. Ima
+#0 /var/www/html/nftbox/market.metaxseed.io/system/Images/Handlers/GDHandler.php(451): CodeIgniter\Images\Exceptions\ImageException::forInvalidImageCreate()
+#1 /var/www/html/nftbox/market.metaxseed.io/system/Images/Handlers/GDHandler.php(402): CodeIgniter\Images\Handlers\GDHandler->getImageResource()
+#2 /var/www/html/nftbox/market.metaxseed.io/system/Images/Handlers/GDHandler.php(299): CodeIgniter\Images\Handlers\GDHandler->ensureResource()
+#3 /var/www/html/nftbox/market.metaxseed.io/app/Libraries/UploadImage.php(14): CodeIgniter\Images\Handlers\GDHandler->save()
+#4 /var/www/html/nftbox/market.metaxseed.io/app/Modules/Setting/Controllers/Admin/Setting.php(45): App\Libraries\UploadImage->Image()
+#5 /var/www/html/nftbox/market.metaxseed.io/system/CodeIgniter.php(926): App\Modules\Setting\Controllers\Admin\Setting->index()
+#6 /var/www/html/nftbox/market.metaxseed.io/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/nftbox/market.metaxseed.io/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/nftbox/market.metaxseed.io/index.php(64): CodeIgniter\CodeIgniter->run()
+#9 {main}

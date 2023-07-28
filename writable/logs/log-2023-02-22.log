@@ -1,0 +1,40 @@
+CRITICAL - 2023-02-22 08:15:21 --> syntax error, unexpected 'die' (T_EXIT), expecting ';' or ','
+#0 /var/www/html/nftbox/nftbox-backup/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile()
+#1 /var/www/html/nftbox/nftbox-backup/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(877): class_exists()
+#5 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(402): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/nftbox/nftbox-backup/index.php(64): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-02-22 12:29:06 --> syntax error, unexpected ']', expecting ';' or ','
+#0 /var/www/html/nftbox/nftbox-backup/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile()
+#1 /var/www/html/nftbox/nftbox-backup/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(877): class_exists()
+#5 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(402): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/nftbox/nftbox-backup/index.php(64): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-02-22 12:29:49 --> syntax error, unexpected ']', expecting ';' or ','
+#0 /var/www/html/nftbox/nftbox-backup/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile()
+#1 /var/www/html/nftbox/nftbox-backup/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(877): class_exists()
+#5 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(402): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/nftbox/nftbox-backup/index.php(64): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-02-22 12:29:52 --> syntax error, unexpected ']', expecting ';' or ','
+#0 /var/www/html/nftbox/nftbox-backup/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile()
+#1 /var/www/html/nftbox/nftbox-backup/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(877): class_exists()
+#5 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(402): CodeIgniter\CodeIgniter->startController()
+#6 /var/www/html/nftbox/nftbox-backup/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/nftbox/nftbox-backup/index.php(64): CodeIgniter\CodeIgniter->run()
+#8 {main}
